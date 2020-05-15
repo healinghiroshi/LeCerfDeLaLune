@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+    totalSpriteSurfaceArea: 68303
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -5475893843893536540, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: 5448414533665708710, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: -9018973708200982331, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: -301944344512221971, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: -1782544425358112094, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: 7696179878748162123, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: -8420163630830411211, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: 4413990349874864251, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: -841421972711427743, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: -796954800370180045, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: 7492393510012087888, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: -4005928851398713327, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: 4558520638484171429, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: -7838353364434106129, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: 8236286119548764211, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: 5825525617361852122, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: 7173631985517635422, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: 3555984520250192671, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: -543109097885948413, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: -455348475937244667, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: -4320467542054560958, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: 3345586952103195613, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: 7735675115429719888, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: -6388399497611453631, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: 2000737713039175158, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: 6786656715860241353, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: -1559172377794079772, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: -2350220486737214309, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  - {fileID: 3044116616743641131, guid: aa7e4b287e593c047a266a2e952fe59e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - DeerJumpSpriteSheet_19
+  - DeerJumpSpriteSheet_18
+  - DeerJumpSpriteSheet_13
+  - DeerJumpSpriteSheet_12
+  - DeerJumpSpriteSheet_28
+  - DeerJumpSpriteSheet_11
+  - DeerJumpSpriteSheet_10
+  - DeerJumpSpriteSheet_26
+  - DeerJumpSpriteSheet_17
+  - DeerJumpSpriteSheet_27
+  - DeerJumpSpriteSheet_16
+  - DeerJumpSpriteSheet_24
+  - DeerJumpSpriteSheet_15
+  - DeerJumpSpriteSheet_25
+  - DeerJumpSpriteSheet_14
+  - DeerJumpSpriteSheet_22
+  - DeerJumpSpriteSheet_23
+  - DeerJumpSpriteSheet_20
+  - DeerJumpSpriteSheet_21
+  - DeerJumpSpriteSheet_8
+  - DeerJumpSpriteSheet_9
+  - DeerJumpSpriteSheet_0
+  - DeerJumpSpriteSheet_1
+  - DeerJumpSpriteSheet_2
+  - DeerJumpSpriteSheet_3
+  - DeerJumpSpriteSheet_4
+  - DeerJumpSpriteSheet_5
+  - DeerJumpSpriteSheet_6
+  - DeerJumpSpriteSheet_7
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0

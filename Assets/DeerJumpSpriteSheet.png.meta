@@ -1,0 +1,821 @@
+fileFormatVersion: 2
+guid: aa7e4b287e593c047a266a2e952fe59e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3345586952103195613
+    second: DeerJumpSpriteSheet_0
+  - first:
+      213: 7735675115429719888
+    second: DeerJumpSpriteSheet_1
+  - first:
+      213: -6388399497611453631
+    second: DeerJumpSpriteSheet_2
+  - first:
+      213: 2000737713039175158
+    second: DeerJumpSpriteSheet_3
+  - first:
+      213: 6786656715860241353
+    second: DeerJumpSpriteSheet_4
+  - first:
+      213: -1559172377794079772
+    second: DeerJumpSpriteSheet_5
+  - first:
+      213: -2350220486737214309
+    second: DeerJumpSpriteSheet_6
+  - first:
+      213: 3044116616743641131
+    second: DeerJumpSpriteSheet_7
+  - first:
+      213: -455348475937244667
+    second: DeerJumpSpriteSheet_8
+  - first:
+      213: -4320467542054560958
+    second: DeerJumpSpriteSheet_9
+  - first:
+      213: -8420163630830411211
+    second: DeerJumpSpriteSheet_10
+  - first:
+      213: 7696179878748162123
+    second: DeerJumpSpriteSheet_11
+  - first:
+      213: -301944344512221971
+    second: DeerJumpSpriteSheet_12
+  - first:
+      213: -9018973708200982331
+    second: DeerJumpSpriteSheet_13
+  - first:
+      213: 8236286119548764211
+    second: DeerJumpSpriteSheet_14
+  - first:
+      213: 4558520638484171429
+    second: DeerJumpSpriteSheet_15
+  - first:
+      213: 7492393510012087888
+    second: DeerJumpSpriteSheet_16
+  - first:
+      213: -841421972711427743
+    second: DeerJumpSpriteSheet_17
+  - first:
+      213: 5448414533665708710
+    second: DeerJumpSpriteSheet_18
+  - first:
+      213: -5475893843893536540
+    second: DeerJumpSpriteSheet_19
+  - first:
+      213: 3555984520250192671
+    second: DeerJumpSpriteSheet_20
+  - first:
+      213: -543109097885948413
+    second: DeerJumpSpriteSheet_21
+  - first:
+      213: 5825525617361852122
+    second: DeerJumpSpriteSheet_22
+  - first:
+      213: 7173631985517635422
+    second: DeerJumpSpriteSheet_23
+  - first:
+      213: -4005928851398713327
+    second: DeerJumpSpriteSheet_24
+  - first:
+      213: -7838353364434106129
+    second: DeerJumpSpriteSheet_25
+  - first:
+      213: 4413990349874864251
+    second: DeerJumpSpriteSheet_26
+  - first:
+      213: -796954800370180045
+    second: DeerJumpSpriteSheet_27
+  - first:
+      213: -1782544425358112094
+    second: DeerJumpSpriteSheet_28
+  - first:
+      213: -4104866651238705716
+    second: DeerJumpSpriteSheet_29
+  - first:
+      213: 6715446004336167006
+    second: DeerJumpSpriteSheet_30
+  - first:
+      213: 1875976111463319951
+    second: DeerJumpSpriteSheet_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 123
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3fa457b99ed6e20800000000000000
+      internalID: 3345586952103195613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 70
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f64093883aa5b60800000000000000
+      internalID: 7735675115429719888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 69
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bd59d0188d757a0800000000000000
+      internalID: -6388399497611453631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 67
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd6d62895c04cb10800000000000000
+      internalID: 2000737713039175158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb6e59635c0f2e50800000000000000
+      internalID: 6786656715860241353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e39bf5bbf4bc5ae0800000000000000
+      internalID: -1559172377794079772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 58
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94ce285be6526fd0800000000000000
+      internalID: -2350220486737214309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 63
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b206edb3fefde3a20800000000000000
+      internalID: 3044116616743641131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 67
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50abeb249f64ea9f0800000000000000
+      internalID: -455348475937244667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 72
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b9b3c49ad9a04c0800000000000000
+      internalID: -4320467542054560958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 64
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532a0b92ac1952b80800000000000000
+      internalID: -8420163630830411211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 60
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b480b48d2d25eca60800000000000000
+      internalID: 7696179878748162123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 55
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec296be7374fcbf0800000000000000
+      internalID: -301944344512221971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 47
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8c71c623b26d280800000000000000
+      internalID: -9018973708200982331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 62
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3304f28869a2d4270800000000000000
+      internalID: 8236286119548764211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 43
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aac22e5e5e134f30800000000000000
+      internalID: 4558520638484171429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 36
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e66b173345af760800000000000000
+      internalID: 7492393510012087888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 28
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161b3528c2ba254f0800000000000000
+      internalID: -841421972711427743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 21
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa5834c628ac9b40800000000000000
+      internalID: 5448414533665708710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 14
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e83afebf87b104b0800000000000000
+      internalID: -5475893843893536540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 19
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13fc4ca415695130800000000000000
+      internalID: 3555984520250192671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 27
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306a93a272d7678f0800000000000000
+      internalID: -543109097885948413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 33
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad69acc1fac68d050800000000000000
+      internalID: 5825525617361852122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 40
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57a826884cdd8360800000000000000
+      internalID: 7173631985517635422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 48
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11024e81fe41868c0800000000000000
+      internalID: -4005928851398713327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 54
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8cae8f423983390800000000000000
+      internalID: -7838353364434106129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b702b4e36d4a14d30800000000000000
+      internalID: 4413990349874864251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 13
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330a4edd4d5a0f4f0800000000000000
+      internalID: -796954800370180045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeerJumpSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 13
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa4d2a1a412347e0800000000000000
+      internalID: -1782544425358112094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
