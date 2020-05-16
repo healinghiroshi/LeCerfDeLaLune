@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class jumpScript : MonoBehaviour
 {
-   
+    public Animator animator;
+
     public float moveSpeed = 5f;
     public bool isFloor = false;
   
@@ -22,6 +23,7 @@ public class jumpScript : MonoBehaviour
 
     void Jump()
     {
+        animator.SetBool("isJumping", true);
         if (Input.GetButtonDown("Right Jump") && isFloor == true)
         {
             mySpriteRenderer.flipX = false;
@@ -32,6 +34,7 @@ public class jumpScript : MonoBehaviour
             mySpriteRenderer.flipX = true;
             gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(-1f, 5f), ForceMode2D.Impulse);
         }
+     
     }
 
     

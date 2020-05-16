@@ -98,8 +98,11 @@ TextureImporter:
   - first:
       213: 1875976111463319951
     second: DeerJumpSpriteSheet_31
+  - first:
+      213: 4219108441789516326
+    second: DeerJumpSpriteSheet_26
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -153,7 +156,6 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -198,12 +200,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_0
       rect:
         serializedVersion: 2
-        x: 491
-        y: 123
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5
+        y: 0
+        width: 56
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -219,12 +221,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_1
       rect:
         serializedVersion: 2
-        x: 4
-        y: 70
-        width: 56
+        x: 64
+        y: 0
+        width: 57
         height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -240,12 +242,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_2
       rect:
         serializedVersion: 2
-        x: 66
-        y: 69
-        width: 57
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 123
+        y: 3
+        width: 56
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -261,12 +263,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_3
       rect:
         serializedVersion: 2
-        x: 128
-        y: 67
+        x: 183
+        y: 3
         width: 56
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -282,12 +284,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_4
       rect:
         serializedVersion: 2
-        x: 479
-        y: 111
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 244
+        y: 3
+        width: 56
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -303,12 +305,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_5
       rect:
         serializedVersion: 2
-        x: 490
-        y: 111
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 303
+        y: 3
+        width: 55
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -324,12 +326,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_6
       rect:
         serializedVersion: 2
-        x: 1254
-        y: 58
-        width: 55
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 362
+        y: 3
+        width: 56
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -345,12 +347,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_7
       rect:
         serializedVersion: 2
-        x: 1319
-        y: 63
-        width: 53
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 419
+        y: 20
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -366,12 +368,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_8
       rect:
         serializedVersion: 2
-        x: 1381
-        y: 67
-        width: 54
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 421
+        y: 3
+        width: 60
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -387,12 +389,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_9
       rect:
         serializedVersion: 2
-        x: 1443
-        y: 72
-        width: 54
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 484
+        y: 2
+        width: 55
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -408,12 +410,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_10
       rect:
         serializedVersion: 2
-        x: 191
-        y: 64
-        width: 56
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 545
+        y: 0
+        width: 53
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -429,12 +431,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_11
       rect:
         serializedVersion: 2
-        x: 254
-        y: 60
-        width: 56
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 616
+        y: 0
+        width: 45
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -450,12 +452,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_12
       rect:
         serializedVersion: 2
-        x: 318
-        y: 55
-        width: 55
-        height: 46
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 676
+        y: 1
+        width: 47
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -471,12 +473,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_13
       rect:
         serializedVersion: 2
-        x: 380
-        y: 47
-        width: 56
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 737
+        y: 1
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -492,12 +494,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_14
       rect:
         serializedVersion: 2
-        x: 435
-        y: 62
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 803
+        y: 1
+        width: 44
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -513,12 +515,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_15
       rect:
         serializedVersion: 2
-        x: 436
-        y: 43
-        width: 63
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 859
+        y: 1
+        width: 46
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -534,12 +536,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_16
       rect:
         serializedVersion: 2
-        x: 506
-        y: 36
-        width: 55
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 920
+        y: 0
+        width: 53
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -555,12 +557,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_17
       rect:
         serializedVersion: 2
-        x: 570
-        y: 28
-        width: 53
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 980
+        y: 4
+        width: 55
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -576,12 +578,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_18
       rect:
         serializedVersion: 2
-        x: 640
-        y: 21
-        width: 45
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1040
+        y: 3
+        width: 57
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -597,12 +599,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_19
       rect:
         serializedVersion: 2
-        x: 828
-        y: 14
-        width: 44
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1101
+        y: 0
+        width: 56
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -618,12 +620,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_20
       rect:
         serializedVersion: 2
-        x: 888
-        y: 19
-        width: 46
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1169
+        y: 2
+        width: 54
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -639,12 +641,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_21
       rect:
         serializedVersion: 2
-        x: 944
-        y: 27
-        width: 53
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1234
+        y: 1
+        width: 54
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -660,12 +662,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_22
       rect:
         serializedVersion: 2
-        x: 1005
-        y: 33
-        width: 55
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1298
+        y: 0
+        width: 53
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -681,12 +683,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_23
       rect:
         serializedVersion: 2
-        x: 1065
-        y: 40
-        width: 57
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1359
+        y: 2
+        width: 54
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -702,12 +704,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_24
       rect:
         serializedVersion: 2
-        x: 1128
-        y: 48
-        width: 57
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1419
+        y: 3
+        width: 54
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -723,12 +725,12 @@ TextureImporter:
       name: DeerJumpSpriteSheet_25
       rect:
         serializedVersion: 2
-        x: 1193
-        y: 54
-        width: 54
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 417
+        y: 13
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -744,10 +746,10 @@ TextureImporter:
       name: DeerJumpSpriteSheet_26
       rect:
         serializedVersion: 2
-        x: 345
+        x: 0
         y: 0
-        width: 57
-        height: 38
+        width: 1500
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -755,50 +757,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b702b4e36d4a14d30800000000000000
-      internalID: 4413990349874864251
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DeerJumpSpriteSheet_27
-      rect:
-        serializedVersion: 2
-        x: 701
-        y: 13
-        width: 47
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 330a4edd4d5a0f4f0800000000000000
-      internalID: -796954800370180045
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DeerJumpSpriteSheet_28
-      rect:
-        serializedVersion: 2
-        x: 762
-        y: 13
-        width: 48
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2aa4d2a1a412347e0800000000000000
-      internalID: -1782544425358112094
+      spriteID: 62a47b526c84d8a30800000000000000
+      internalID: 4219108441789516326
       vertices: []
       indices: 
       edges: []
