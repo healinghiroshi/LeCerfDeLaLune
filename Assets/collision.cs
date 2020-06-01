@@ -39,6 +39,7 @@ public class collision : MonoBehaviour
         if (collision.collider.tag == "step")
         {
             Player.GetComponent<jumpScript>().isFloor = false;
+            resetTimer = 0;
         }
     }
 }

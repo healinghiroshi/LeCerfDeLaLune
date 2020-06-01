@@ -54,11 +54,11 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11364}
+      Script: {instanceID: 11334}
     - Class: 114
-      Script: {instanceID: 11964}
+      Script: {instanceID: 11934}
     - Class: 114
-      Script: {instanceID: 12130}
+      Script: {instanceID: 12100}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -567,4 +567,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Atlantis/Desktop
+  playerPath: C:/Users/Atlantis/Desktop/DeerJumpAlpha.apk
