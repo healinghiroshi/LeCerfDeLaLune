@@ -8,6 +8,7 @@ public class collision : MonoBehaviour
     GameObject Player;
     // Start is called before the first frame update
     float resetTimer;
+    public bool playerStateAlive;
 
 
     void Start()
@@ -21,8 +22,11 @@ public class collision : MonoBehaviour
         resetTimer += Time.deltaTime;
         if ((Player.GetComponent<jumpScript>().isFloor == false) && resetTimer > 4)
         {
+            playerStateAlive = false;
             SceneManager.LoadScene(SceneManager.GetActiveScene().name); // loads current scene
+            playerStateAlive = true;
         }
+
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

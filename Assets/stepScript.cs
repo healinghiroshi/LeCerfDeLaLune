@@ -8,6 +8,7 @@ using Random = UnityEngine.Random;
 
 public class stepScript : MonoBehaviour
 {
+    public collision getPlayerState;
     public GameObject stepPrefab;
     public GameObject nextStep;
     public Vector3[] stepPosition;
@@ -22,14 +23,19 @@ public class stepScript : MonoBehaviour
     void Start()
     {
         
+        
+    }
+
+    void Update()
+    {
         Vector3 spawnPosition = new Vector3();
         spawnPosition = GameObject.FindGameObjectWithTag("step").transform.position;
         int x = 0;
-        for (int i = 0; i<numberOfSteps; i++)
+        while (getPlayerState.playerStateAlive == true)
         {
-            
+
             spawnPosition.y += distanceY;
-            spawnPosition.x = Random.Range(0,2)*2-1+spawnPosition.x;
+            spawnPosition.x = Random.Range(0, 2) * 2 - 1 + spawnPosition.x;
             if (spawnPosition.x >= 3)
             {
                 spawnPosition.x = 0 - 2 + spawnPosition.x;
@@ -56,13 +62,8 @@ public class stepScript : MonoBehaviour
                 x++;
                 spawnPosition = stepPosition[x - 1];
             }
-            
-        }
-     
-    }
 
-    void Update()
-    {
+        }
 
     }
 }
