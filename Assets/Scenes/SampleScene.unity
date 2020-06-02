@@ -221,9 +221,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff5d5c2180f18f34f953cb5c8e0a59f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  getPlayerState: {fileID: 0}
+  getPlayerState: {fileID: 2063776282}
   stepPrefab: {fileID: 2063776277}
-  nextStep: {fileID: 0}
+  nextStep: {fileID: 2063776277}
   stepPosition: []
   numberOfSteps: 200
   levelWidth: 6
