@@ -1,14 +1,15 @@
-Coding things to do:
-pseudocode:
-	While (playerStateAlive)
-		counter = 0
-		Create 10 steps
-		counter++
-		if 5 steps reached
-			Create 10 steps
-		counter = 0
+DeerJumpAlpha.APK: Alpha Build for Android
+Instructions: 
+Download DeerJumpAlpha.APK to android device
+Install and run through a file managing app (e.g google files)
 
+How to Play:
+Swipe left or right to jump to next platform.
 
+Notes/Bugs:
+Game will reset if falling for more than 4 seconds.
+Bouncing off of platforms may occur if swiping too quickly in succesion.
+Player will eventually jump off center from platforms.
 
 
 
